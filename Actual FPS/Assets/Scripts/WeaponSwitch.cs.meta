@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55cb5765ab0796f4eaa1c30afe9f0ff8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ppsh: {instanceID: 0}
+  - mosin: {instanceID: 0}
+  - makarov: {instanceID: 0}
+  - dp28: {instanceID: 0}
+  - sks: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Makarov
+  - PPSH
+  - SKS
+  - Mosin
+  - DP28
+  - Enemy
+  - WeaponHolder
+  - player
+  - BasicEnemy
+  - TankEnemy
+  - BoomerEnemy
+  - FastEnemy
+  - ForestEscape
+  - CarEscape
+  - WellEscape
+  - Explosion
+  - Endscreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - pickup
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
